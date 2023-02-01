@@ -5,3 +5,8 @@ The project utilized Playwright for performing web scraping of monthly visitor d
 - Playwright
 - Docker
 - Flask
+
+# How to use:
+
+- Run: "docker build -t web_scrap . && docker run -p 3000:3000 web_scrap"
+- Endpoint to call: http://localhost:3000/
