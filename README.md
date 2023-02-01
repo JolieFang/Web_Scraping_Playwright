@@ -1,2 +1,3 @@
 # Web_Scraping_Playwright
-A web scraping solution of retrieving monthly visitors using Playwright that operates in headless mode on a Linux server, which was containerized within Docker, and a Flask web server was integrated to facilitate the serving of the scraped data via HTTP requests.
+The project utilized Playwright for performing web scraping of monthly visitor data from websites in a headless mode on a Linux server. The implementation was containerized within a Docker container to provide increased efficiency and scalability. To make the scraped data easily accessible, a Flask web server was integrated to serve the data through HTTP requests.
+
