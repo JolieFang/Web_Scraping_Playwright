@@ -12,4 +12,4 @@ The project utilized Playwright for performing web scraping of monthly visitor d
 - Endpoint to call: http://localhost:3000/
 
 # Result:
-![alt text]()
+![alt text](https://github.com/JolieFang/Web_Scraping_Playwright/blob/main/Result.jpeg)
